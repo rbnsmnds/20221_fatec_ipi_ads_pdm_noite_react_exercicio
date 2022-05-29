@@ -1,0 +1,10 @@
+.medico{
+    border: 1px solid thistle;
+    background-color: lavender;
+    border-radius: 8px;
+    padding: 8px;
+}
+.medico img{
+    height: 96px;
+    border-radius: 8px;
+}
